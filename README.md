@@ -1,4 +1,4 @@
-# 📈 Optimal Trade Design
+# Optimal Trade Design
 
 A quantitative finance project exploring how to determine **optimal trade size, leverage, and execution strategies** using mathematical optimization and numerical methods in Python.
 
@@ -6,7 +6,7 @@ This project demonstrates how trading decisions can be framed as optimization pr
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 In financial markets, traders must balance several competing factors:
 
@@ -27,7 +27,7 @@ The notebook explores:
 
 ---
 
-## 🧠 Mathematical Model
+## Mathematical Model
 
 The project models trading profit using a function of trade size:
 
@@ -51,7 +51,7 @@ x* = (α − c) / (2β)
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
@@ -61,7 +61,7 @@ x* = (α − c) / (2β)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 optimal-trade-design/
@@ -72,7 +72,7 @@ optimal-trade-design/
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Clone the repository
 
@@ -94,7 +94,7 @@ jupyter notebook optimal-trade-design.ipynb
 
 ---
 
-## 📉 Example Topics Covered
+## Example Topics Covered
 
 - Trade size optimization
 - Profit curve visualization
@@ -103,7 +103,7 @@ jupyter notebook optimal-trade-design.ipynb
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was created as a **learning and educational exercise**. Some parts of the implementation and structure were developed **with the help of an online guide/tutorial**, which served as a reference while building and understanding the concepts presented in this notebook.
 
